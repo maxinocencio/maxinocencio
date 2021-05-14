@@ -14,10 +14,6 @@
 - Python
 - HTML/CSS
 
-## GitHub metrics
-
-![GitHub metrics](https://metrics.lecoq.io/maxinocencio)  
-
 ## Github Stats
 
 ![Max's stats](https://github-readme-stats.vercel.app/api?username=maxinocencio&count_private=true&show_icons=true&theme=shades-of-purple)

@@ -1,16 +1,19 @@
-### Hi there 👋
+### About me 👋
 
-<!--
-**maxinocencio/maxinocencio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Name: Max Inocêncio
+- Age: 16y
+- Languages: Portuguese, English
+- From Brazil
 
-Here are some ideas to get you started:
+### Learning 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- HTML/CSS
+
+## Github Stats
+
+![Max's stats](https://github-readme-stats.vercel.app/api?username=maxinocencio&count_private=true&show_icons=true&theme=react)
+
+## Top Languages
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&show_icons=true&theme=react)

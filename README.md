@@ -1,6 +1,6 @@
 ### Welcome
 
-![Welcome](https://github.com/maxinocencio/maxinocencio/blob/main/Max.png?raw=true)
+![Welcome](https://github.com/maxinocencio/maxinocencio/blob/main/Max%20(1).png?raw=true)
 
 ### About me 👋
 

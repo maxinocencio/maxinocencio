@@ -10,6 +10,9 @@
   About me 👋
 </h2>
 
+<br>
+</br>
+
 <div align="center">
   <h4>
     Name: Max Inocêncio
@@ -37,6 +40,9 @@
   Learning 💻
 </h2>
 
+<br>
+</br>
+
 <div align="center">
   <h4>
     Python 🐍
@@ -56,9 +62,15 @@
   Github Stats 📈
 </h2>
 
+<br>
+</br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maxinocencio&count_private=true&show_icons=true&theme=shades-of-purple" />
 </p>
+
+<br>
+</br>
  
  <!-- principais linguagens -->
  
@@ -66,15 +78,24 @@
   Top Languages 🤳
 </h2>
 
+<br>
+</br>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&show_icons=true&theme=shades-of-purple" />
 </p>
+
+<br>
+</br>
 
 <!-- views no perfil -->
 
 <h2 align="center">
   Profile views 📊
 </h2>
+
+<br>
+</br>
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/maxinocencio" />

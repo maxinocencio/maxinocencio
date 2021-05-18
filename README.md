@@ -4,8 +4,8 @@
 
  <div align="center">
   <a href="https://github.com/maxinocencio">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maxinocencio&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&layout=compact&langs_count=16&theme=shades-of-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maxinocencio&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&layout=compact&langs_count=16&theme=shades-of-purple"/>
 <div>
 <div style="display: inline_block">
   <h3 align="center">Learning:

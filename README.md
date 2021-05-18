@@ -1,105 +1,18 @@
-<!-- Imagem welcome -->
-
 <p align="center">
   <img src="https://github.com/maxinocencio/maxinocencio/blob/main/bem%20vindo.png?raw=true" />
 </p>
 
-<!-- About me -->
-
-<h2 align="center">
-  About me 👋
-</h2>
-
-<br>
-</br>
-
-<div align="center">
-  <h4>
-    Name: Max Inocêncio
-  </h4>
-  
-  <h4>
-    Age: 16yo
-  </h4>
-  
-  <h4>
-    Languages: Portuguese, English
-  </h4>
-  
-  <h4>
-    From Brazil
-  </h4>
+ <div align="center">
+  <a href="https://github.com/maxinocencio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxinocencio&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&layout=compact&langs_count=16&theme=shades-of-purple"/>
+<div>
+<div style="display: inline_block">
+  <h3 align="center">Learning:
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
 </div>
-
-<br>
-</br>
-
-<!-- Learning -->
-
-<h2 align="center">
-  Learning 💻
-</h2>
-
-<br>
-</br>
-
-<div align="center">
-  <h4>
-    Python 🐍
-  </h4>
-  
-  <h4>
-    HTML/CSS 🖥
-  </h4>
-</div>
-
-<br>
-</br>
-
-<!-- stats -->
-
-<h2 align="center">
-  Github Stats 📈
-</h2>
-
-<br>
-</br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxinocencio&count_private=true&show_icons=true&theme=shades-of-purple" />
-</p>
-
-<br>
-</br>
- 
- <!-- principais linguagens -->
- 
-<h2 align="center">
-  Top Languages 🤳
-</h2>
-
-<br>
-</br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxinocencio&show_icons=true&theme=shades-of-purple" />
-</p>
-
-<br>
-</br>
-
-<!-- views no perfil -->
-
-<h2 align="center">
-  Profile views 📊
-</h2>
-
-<br>
-</br>
-
-<p align="center">
-  <img src="https://gpvc.arturio.dev/maxinocencio" />
-</p>
-
-<br>
-</br>
+  <br>
+  <img align="center" src="https://assets.change.org/photos/9/ea/kp/xOEakPOLpNNhOUd-1600x900-noPad.jpg?1539704331">
